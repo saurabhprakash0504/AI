@@ -1,0 +1,7 @@
+1
+Evil(John)
+4
+King(x) ^ Greedy(x) ^ Himica(z) => Evil(x)
+Greedy(John)
+Himica(Hk)
+King(John)
